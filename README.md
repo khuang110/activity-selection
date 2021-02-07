@@ -6,5 +6,5 @@
   <dt>Compile with:</dt>
  </dl>
  
-       `python3 lastToStart.py`
+       python3 lastToStart.py
  
